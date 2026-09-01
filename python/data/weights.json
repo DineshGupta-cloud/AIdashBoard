@@ -1,0 +1,14 @@
+[
+  {"symbol":"HDFCBANK","weight":28.4},
+  {"symbol":"ICICIBANK","weight":24.1},
+  {"symbol":"SBIN","weight":11.8},
+  {"symbol":"AXISBANK","weight":10.2},
+  {"symbol":"KOTAKBANK","weight":9.4},
+  {"symbol":"INDUSINDBK","weight":5.2},
+  {"symbol":"BANKBARODA","weight":3.1},
+  {"symbol":"PNB","weight":2.8},
+  {"symbol":"AUBANK","weight":2.1},
+  {"symbol":"IDFCFIRSTB","weight":1.7},
+  {"symbol":"FEDERALBNK","weight":1.6},
+  {"symbol":"CANBK","weight":1.6}
+]

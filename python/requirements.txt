@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pandas
+numpy
+
+to start cmd  -  uvicorn app:app --reload
