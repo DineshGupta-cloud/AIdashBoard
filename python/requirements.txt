@@ -2,5 +2,9 @@ fastapi
 uvicorn
 pandas
 numpy
+ta
+requests
+python-dotenv
 
-to start cmd  -  uvicorn app:app --reload
+# To start:
+# uvicorn app:app --reload
